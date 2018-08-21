@@ -3,11 +3,11 @@
 Building Modules with CMake
 ===========================
 
-If you haven't follow the initial example in :ref:`hello_world`, you should get
+If you haven't follow the initial example in in :ref:`hello_world_cpp`, you should get
 the `Cycstub repo <https://github.com/cyclus/cycstub>`_ by either `cloning the
 repository <https://github.com/cyclus/cycstub.git>`_ or by `downloading the zip
 file <https://github.com/cyclus/cycstub/archive/develop.zip>`_ (see
-:ref:`hello_world` for further instructions).
+:ref:`hello_world_cpp for further instructions).
 
 The Cycstub repo provides a number of critical tools for building your own
 module:
@@ -101,7 +101,7 @@ Examples
 Standalone Installation
 +++++++++++++++++++++++
 
-Through the :ref:`hello_world` example, three standalone modules are installed
+Through the :ref:`hello_world_cpp` example, three standalone modules are installed
 using a ``src/CMakeLists.txt`` file that looks something like
 
 .. literalinclude:: standalone-cmake
