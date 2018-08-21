@@ -109,8 +109,8 @@ Under the Hood
     :maxdepth: 1
 
     sim_init
-    dynamic_loading
     decay
+..   dynamic_loading
 ..   cyclus_env
 ..   materials_and_isotopes
 
